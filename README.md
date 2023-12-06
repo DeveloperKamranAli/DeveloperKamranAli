@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm Kamran Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400px" src="(https://github.com/DeveloperKamranAli/DeveloperKamranAli/assets/149355309/3636b2b1-5a0b-4370-ab34-8d4f7abd26c8)
-">
+<img align="right" alt="coding" width="400px" src="https://github.com/DeveloperKamranAli/DeveloperKamranAli/blob/main/gif-img.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerkamranali&label=Profile%20views&color=0e75b6&style=flat" alt="developerkamranali" /> </p>
 
